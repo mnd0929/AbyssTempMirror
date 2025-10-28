@@ -5,8 +5,8 @@
         {
             "id": "ru",
             "name": "Русский",
-            "icon": "http://wutheringwaves.ru/abysstpl/pub/ru/icon.png",
-            "url": "http://wutheringwaves.ru/abysstpl/pub/ru/info.json"
+            "icon": "/abysstpl/pub/ru/icon.png",
+            "url": "/abysstpl/pub/ru/info.json"
         }
     ]
 }
