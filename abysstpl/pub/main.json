@@ -1,0 +1,12 @@
+{
+    "clientversion": "1",
+    "updateclienturl": "https://t.me/GTE_Team",
+    "localizationBranches": [
+        {
+            "id": "ru",
+            "name": "Русский",
+            "icon": "http://wutheringwaves.ru/abysstpl/pub/ru/icon.png",
+            "url": "http://wutheringwaves.ru/abysstpl/pub/ru/info.json"
+        }
+    ]
+}
